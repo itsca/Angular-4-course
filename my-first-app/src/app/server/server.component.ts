@@ -6,5 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./server.component.css']
 })
 export class ServerComponent {
-  title = 'app';
+  serverId: number = Math.floor(Math.random() * 10) + 1;
+  serverStatus: string;
+  getServerStatus() {
+  	if (this.serverId % 2 == 0) {
+  		this.serverStatus = "online";
+  	} else {
+  		this.serverStatus = "offline";
+  	}
+  	return this.serverStatus;
+  }
 }
