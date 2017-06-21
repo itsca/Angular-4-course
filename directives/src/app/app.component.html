@@ -15,7 +15,7 @@
             {{odd}}
           </li>
         </div>
-        <div *ngIf="!onlyOdd">
+        <!--<div *ngIf="!onlyOdd">
           <li
             class="list-group-item"
             [ngClass]="{even: odd % 2 == 0}"
@@ -23,7 +23,29 @@
             *ngFor="let even of evenNumbers">
             {{even}}
           </li>
-        </div>
+        </div>-->
+        <!--Example of what the star is tranforming the ngIf to-->
+        <!--<ng-template [ngIf]="!onlyOdd">     
+          <div class="">
+            <li
+              class="list-group-item"
+              [ngClass]="{even: odd % 2 == 0}"
+              [ngStyle]="{backgroundColor: even % 2 !== 0 ? 'yellow' : 'trasnparent'}"
+              *ngFor="let even of evenNumbers">
+              {{even}}
+            </li>
+          </div>
+        </ng-template>-->
+        <!--Custom Structural Directive-->
+        <div *appUnless="onlyOdd">
+          <li
+            class="list-group-item"
+            [ngClass]="{even: odd % 2 == 0}"
+            [ngStyle]="{backgroundColor: even % 2 !== 0 ? 'yellow' : 'trasnparent'}"
+            *ngFor="let even of evenNumbers">
+            {{even}}
+          </li>
+        </div>  
       </ul>
       <p appBasicHighlight>Style me with basic directive</p>
       <p appBetterHighlight [defaultColor]="'yellow'" [highlightColor]="'green'">Style me with better directive</p>
