@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import { Injectable, EventEmitter } from '@angular/core';
 import { LoggingService } from '../services/logging.service';
 
 @Injectable()
@@ -18,6 +18,9 @@ export class AccountsService {
       status: 'unknown'
     }
   ];
+  
+  statusUpdated = new EventEmitter<string>();
+
   constructor(private logginService: LoggingService){}
 
   addAccount(name : string, status: string) {
