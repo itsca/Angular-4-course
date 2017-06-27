@@ -9,15 +9,16 @@ import { ServerComponent } from './servers/server/server.component';
 import { ServersService } from './servers/servers.service';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { AuthGuard } from './auth-guard.service';
+import { CanDeactivateGuard } from './servers/edit-server/can-deactivate-guard.service';
 
 const appRoutes: Routes = [
   { path: "", component: HomeComponent },
   { path: "users", component: UsersComponent, children: [
       { path: ":id/:name", component: UserComponent },
   ] },
-  { path: "servers", canActivate: [AuthGuard],  component: ServersComponent, children: [
+  { path: "servers", /*canActivate: [AuthGuard]*/canActivateChild: [AuthGuard],  component: ServersComponent, children: [
       { path: ":id", component: ServerComponent },
-      { path: ":id/edit", component: EditServerComponent },
+      { path: ":id/edit", component: EditServerComponent, canDeactivate: [CanDeactivateGuard] },
   ] },
   {path: 'not-found', component: PageNotFoundComponent },
   {path: '**', redirectTo: '/not-found' }, // ** is === to Otherwise, It MUST be at the end of all routes!
