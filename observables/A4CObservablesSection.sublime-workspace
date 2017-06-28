@@ -519,6 +519,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/app/user/user.component.ts",
+			"settings":
+			{
+				"buffer_size": 486,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/home/home.component.ts",
+			"settings":
+			{
+				"buffer_size": 469,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -528,9 +546,13 @@
 	"command_palette":
 	{
 		"height": 242.0,
-		"last_filter": "import",
+		"last_filter": "comen",
 		"selected_items":
 		[
+			[
+				"comen",
+				"Toggle Comment"
+			],
 			[
 				"import",
 				"Import Helper: Update source modules"
@@ -585,7 +607,11 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/observables"
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/observables",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/observables/src",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/observables/src/app",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/observables/src/app/home",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/observables/src/app/user"
 	],
 	"file_history":
 	[
@@ -870,7 +896,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -879,8 +905,71 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/app/user/user.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/home/home.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
