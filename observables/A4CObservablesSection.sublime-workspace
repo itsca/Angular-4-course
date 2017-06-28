@@ -1,0 +1,973 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rou",
+				"route\tproperty"
+			],
+			[
+				"In",
+				"Injectable\talias"
+			],
+			[
+				"s",
+				"subscribe\tmethod"
+			],
+			[
+				"ser",
+				"server\tproperty"
+			],
+			[
+				"can",
+				"canDeactivate\tproperty"
+			],
+			[
+				"Ca",
+				"CanComponentDeactivate\tinterface"
+			],
+			[
+				"l",
+				"logIn\tmethod"
+			],
+			[
+				"aut",
+				"auth-service.service\tscript"
+			],
+			[
+				"A",
+				"auth-guard.service\tscript"
+			],
+			[
+				"a",
+				"auth-service.service\tscript"
+			],
+			[
+				"Ro",
+				"router\tparameter"
+			],
+			[
+				"rot",
+				"Router\talias"
+			],
+			[
+				"ret",
+				"return\tkeyword"
+			],
+			[
+				"se",
+				"setTimeout\tfunction"
+			],
+			[
+				"fa",
+				"false\tkeyword"
+			],
+			[
+				"lo",
+				"loggedIn\tproperty"
+			],
+			[
+				"Routers",
+				"RouterStateSnapshot\talias"
+			],
+			[
+				"im",
+				"implements\tkeyword"
+			],
+			[
+				"ro",
+				"RouterModule\talias"
+			],
+			[
+				"Rou",
+				"RouterModule\talias"
+			],
+			[
+				"Page",
+				"PageNotFoundComponent\talias"
+			],
+			[
+				"quer",
+				"queryParamsHandling\tproperty"
+			],
+			[
+				"r",
+				"route\tproperty"
+			],
+			[
+				"re",
+				"relativeTo\tproperty"
+			],
+			[
+				"pri",
+				"private\tkeyword"
+			],
+			[
+				"R",
+				"Router\talias"
+			],
+			[
+				"Ac",
+				"ActivatedRoute\talias"
+			],
+			[
+				"S",
+				"Subscription\texternal module name"
+			],
+			[
+				"for",
+				"forRoot\tmethod"
+			],
+			[
+				"new",
+				"newIngredients\tparameter"
+			],
+			[
+				"rec",
+				"recipesService\tproperty"
+			],
+			[
+				"Sh",
+				"ShoppingListService\talias"
+			],
+			[
+				"i",
+				"ingredient.model\tscript"
+			],
+			[
+				"ingre",
+				"ingredientAdded\tproperty"
+			],
+			[
+				"sho",
+				"shopping-list.service\tscript"
+			],
+			[
+				"Rec",
+				"recipe\tparameter"
+			],
+			[
+				"pro",
+				"providers\tproperty"
+			],
+			[
+				"stat",
+				"status\tparameter"
+			],
+			[
+				"Acc",
+				"AccountsService\tparameter"
+			],
+			[
+				"account",
+				"accountStatus\tparameter"
+			],
+			[
+				"ac",
+				"accountsService\tproperty"
+			],
+			[
+				"acc",
+				"AccountsService\talias"
+			],
+			[
+				"sta",
+				"status\tparameter"
+			],
+			[
+				"cons",
+				"constructor\tkeyword"
+			],
+			[
+				"c",
+				"class\tclass …"
+			],
+			[
+				"set",
+				"setStyle\tmethod"
+			],
+			[
+				"Re",
+				"Renderer2\talias"
+			],
+			[
+				"Event",
+				"EventEmitter\talias"
+			],
+			[
+				"reci",
+				"recipeSelected"
+			],
+			[
+				"After",
+				"AfterContentInit\talias"
+			],
+			[
+				"HTMLI",
+				"HTMLInputElement\tinterface"
+			],
+			[
+				"na",
+				"nameInput\tparameter"
+			],
+			[
+				"server",
+				"serverName\tproperty"
+			],
+			[
+				"serve",
+				"serverName\tproperty"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"ima",
+				"imagePath\tparameter"
+			],
+			[
+				"image",
+				"ImageData\tinterface"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"ev",
+				"event\tparameter"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"cur",
+				"currProyectUrl"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"clip",
+				"clip-path"
+			],
+			[
+				"rb",
+				"rgba"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"font",
+				"fontcolor1"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"trasn",
+				"transition"
+			],
+			[
+				"fon",
+				"fontcolor1"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"CO",
+				"color"
+			],
+			[
+				"get",
+				"getProyects"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ap",
+				"apear"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"next",
+				"nextGalIndex"
+			],
+			[
+				"ga",
+				"galDivs"
+			],
+			[
+				"fis",
+				"firstImageDiv"
+			],
+			[
+				"apar",
+				"apartmentIndex"
+			],
+			[
+				"hid",
+				"hiddenGal"
+			],
+			[
+				"apa",
+				"apartmentTypes"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"ligh",
+				"lightBlue"
+			],
+			[
+				"las",
+				"lastDivBottom"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"li",
+				"lightPink"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"transit",
+				"transition"
+			],
+			[
+				"transform",
+				"transformPer"
+			],
+			[
+				"light",
+				"lightBlue"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ligt",
+				"lightBlue"
+			],
+			[
+				"FW",
+				"font-weight"
+			],
+			[
+				"HEAD",
+				"headFont"
+			],
+			[
+				"FON",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"main",
+				"mainNavBreakPoint"
+			],
+			[
+				"color",
+				"color2"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"js",
+				"js-transform"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"de",
+				"development"
+			],
+			[
+				"gu",
+				"gulpif"
+			],
+			[
+				"sa",
+				"sassStyle"
+			],
+			[
+				"sass",
+				"sassStyle"
+			],
+			[
+				"outpu",
+				"outputDir"
+			],
+			[
+				"html",
+				"htmlSources"
+			],
+			[
+				"coffe",
+				"coffeeSources"
+			],
+			[
+				"g",
+				"gutil"
+			],
+			[
+				"dot",
+				"dotTargets"
+			],
+			[
+				"tra",
+				"transparent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "import",
+		"selected_items":
+		[
+			[
+				"import",
+				"Import Helper: Update source modules"
+			],
+			[
+				"im",
+				"Import Helper: Import from clipboard"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/observables"
+	],
+	"file_history":
+	[
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe-detail/recipe-detail.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe-detail/recipe-detail.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/app.module.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/app-routing/app-routing.module.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe-list/recipe-list.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe-list/recipe-list.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipes.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe-edit/recipe-edit.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipes.service.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/app.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/app.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe-start/recipe-start.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/header/header.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/header/header.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/error-message/error-message.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/servers/server/server.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/app-routing-module.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/app.module.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/servers/server/server-resolver.service.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/error-message/error-message.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/servers/edit-server/edit-server.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/servers/edit-server/can-deactivate-guard.service.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/page-not-found/page-not-found.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/app.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/home/home.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/home/home.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/auth-guard.service.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/routing.sublime-project",
+		"/C/Users/Itsca/AppData/Roaming/Sublime Text 3/Packages/ImportHelper/backend_run.js",
+		"/C/Users/Itsca/AppData/Roaming/Sublime Text 3/Packages/ImportHelper/package-metadata.json",
+		"/C/Users/Itsca/AppData/Roaming/Sublime Text 3/Packages/ImportHelper/Main.sublime-menu",
+		"/C/Users/Itsca/AppData/Roaming/Sublime Text 3/Packages/ImportHelper/import_helper.sublime-settings",
+		"/C/Users/Itsca/AppData/Roaming/Sublime Text 3/Packages/ImportHelper/Default.sublime-keymap",
+		"/C/Users/Itsca/AppData/Roaming/Sublime Text 3/Packages/ImportHelper/package.json",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/auth-service.service.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/users/users.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/servers/server/server.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/servers/edit-server/edit-server.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/servers/servers.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/users/user/user.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/users/user/user.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/routing/src/app/servers/servers.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/shopping-list/shopping-list.service.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipe.model.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/shopping-list/shopping-list.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/shopping-list/shopping-edit/shopping-edit.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/shopping-list/shopping-list.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/recipes/recipes.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/services/src/app/app.module.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/services/src/app/account/account.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/services/src/app/services/accounts.service.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/services/src/app/new-account/new-account.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/services/src/app/services/logging.service.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/services/src/app/app.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/services/src/app/app.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/shared/dropdown.directive.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/directives/src/app/app.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/directives/src/app/app.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/directives/src/app/unless/unless.directive.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/directives/src/app/app.module.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/directives/src/app/better-highlight/better-highlight.directive.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/directives/src/app/app.component.css",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/directives/src/app/basic-highlight/basic-highlight.directive.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/components-databinding/src/app/cockpit/cockpit.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/components-databinding/src/app/cockpit/cockpit.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/components-databinding/src/app/server-element/server-element.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/components-databinding/src/app/app.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/components-databinding/src/app/server-element/server-element.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/components-databinding/src/app/app.component.html",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.654/htaccess.txt",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.099/index.php",
+		"/C/Users/Itsca/Desktop/Nueva carpeta/.htaccess",
+		"/C/Users/Itsca/Desktop/Web Development/bretes/Regimen Mutualidad/index.php",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/shared/ingredient.model.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/.angular-cli.json",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/recipeApp/src/app/header/header.component.spec.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/app.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/.angular-cli.json",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/app.module.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/server/server.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/server/server.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/servers/servers.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/servers/servers.component.ts",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/warning-alert/warning-alert.component.html",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/success-alert/success-alert.component.css",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/warning-alert/warning-alert.component.css",
+		"/C/Users/Itsca/Desktop/Web Development/personal/angular 4 course/my-first-app/src/app/success-alert/success-alert.component.html",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/sass/_portfolio.scss",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/sass/_contact.scss",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/scripts/angular/controlers/controlers.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/scripts/angular/app.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/builds/development/index.html",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/builds/development/partials/contact.html",
+		"/C/Users/Itsca/Desktop/Web Development/bosco-studio/clientes/peninsula/web-site/builds/development/contact.html",
+		"/C/Users/Itsca/Desktop/Web Development/bosco-studio/clientes/peninsula/web-site/components/sass/_contact.scss",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/builds/development/partials/landing.html",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/builds/development/partials/portfolio.html",
+		"/C/Users/Itsca/Desktop/Web Development/bosco-studio/clientes/peninsula/web-site/components/scripts/init.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v2/index.html",
+		"/C/Users/Itsca/Desktop/Web Development/bosco-studio/clientes/peninsula/web-site/builds/development/css/style.css",
+		"/C/Users/Itsca/Desktop/Web Development/bosco-studio/clientes/peninsula/web-site/builds/development/js/script.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v1/index.html",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/builds/development/partials/about.html",
+		"/C/Users/Itsca/Desktop/Web Development/universidad/Proyecto 1/Proyecto-WebParaServidor/js/angular/services/services-events.js",
+		"/C/Users/Itsca/Desktop/Web Development/universidad/Proyecto 1/Proyecto-WebParaServidor/js/angular/controllers/controller-events.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/scripts/angular/services/mainFactory.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/gulpfile.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/sass/_base.scss",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/sass/_modules.scss",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/README.md",
+		"/C/Users/Itsca/Desktop/Web Development/tutoriales/node-site/server.js",
+		"/C/Users/Itsca/Desktop/Web Development/tutoriales/node-site/package.json",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/scripts/init.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/builds/development/images/clip-shape.svg",
+		"/C/Users/Itsca/Desktop/circleanimationtrials/portfolio.html",
+		"/C/Users/Itsca/Desktop/circleanimationtrials/_portfolio.scss",
+		"/C/Users/Itsca/Desktop/circleanimationtrials/controlers.js",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.520/CardExpansion/css/demo.css",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.129/CardExpansion/css/card.css",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.389/CardExpansion/index.html",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.295/CardExpansion/js/demo.js",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.375/CardExpansion/js/Card-circle.js",
+		"/C/Users/Itsca/Desktop/Portfolio/v3/components/sass/style.scss",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.771/ButtonComponentMorph/index.html",
+		"/C/Users/Itsca/AppData/Local/Temp/Rar$DRa0.419/ButtonComponentMorph/css/demo.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href",
+			"edit",
+			"checkForFromUrl",
+			"_clipImageIn",
+			"_clip",
+			"clipImage",
+			"scroll",
+			"scrollTo",
+			"scrollto",
+			"console.log",
+			"portfolio-list",
+			"._content",
+			"hirecolor2",
+			"contact",
+			"form",
+			"aboutcolor2",
+			"fff",
+			"portfoliocolor1",
+			"1F2348",
+			"ECC3B9",
+			"0AE485",
+			"mix",
+			"rgba(255,139,39,0.7)",
+			"}",
+			"viewsController",
+			"--",
+			"version",
+			"jQuery(window).scrollTop()",
+			"$",
+			"second-col",
+			"();\n",
+			"keyframes",
+			"headroom",
+			"main-header",
+			"\",\n",
+			"mission",
+			"mision",
+			"builds/development/",
+			"Roboto mono",
+			"scrollTo",
+			");",
+			"{\n",
+			"contact-us",
+			"blur",
+			"image-responsive-height",
+			"welcome-text",
+			"content-section",
+			"letter",
+			"h1",
+			"#offNav-wrapper",
+			"slide",
+			"2em",
+			"helvetica",
+			"ubuntu",
+			"show",
+			"backgrou",
+			"icons",
+			"s",
+			"state_",
+			"freedom",
+			",",
+			"shadow",
+			"search",
+			"img",
+			"body:not(:target) .region-primary-menu .menu-toggle {",
+			"5.5",
+			"version",
+			"pcre.backtrack_limit",
+			"nav",
+			"alert",
+			"header",
+			"nav",
+			"header",
+			"input",
+			"cfia",
+			"\";",
+			"headroom",
+			"head",
+			"border-bott",
+			"border-bott\t",
+			".3em",
+			"fa",
+			"product-details",
+			"servicepage",
+			".service-cnct",
+			".about-figCaption p",
+			"arw",
+			" arw ",
+			" arw",
+			"arw",
+			"awsome",
+			"fonts",
+			"fonts/",
+			"font",
+			"fontawsome",
+			".element",
+			"testimonio",
+			"testimonios",
+			"content_stant",
+			"filter",
+			"about",
+			"cursor: pointer;",
+			"search",
+			"propiedades",
+			"Cursos",
+			"propiedad",
+			"propiedades",
+			"fcitem_readon",
+			"read more",
+			"home-map-scan",
+			"createMarker",
+			"createMarkers",
+			"name",
+			".request",
+			"this.req",
+			"propiedades",
+			"propiedad",
+			"propiedades",
+			"seguros",
+			"creditos",
+			"serviciosSoli",
+			"mix",
+			"leadingblock",
+			"fc_alianzasList_item",
+			"fc_bloglist_item",
+			"class",
+			"boletin",
+			"noticia"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "A4CObservablesSection.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
