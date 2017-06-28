@@ -7,10 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 	
-  loadedFeature = 'recipes';
-  
+  /*
+  	Old WAY Navigation
+   loadedFeature = 'recipes';
+
 
   onNavigate(feature: string) {
   	this.loadedFeature = feature;
-  }
+  }*/
 }
