@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"pa",
+				"patchValue\tmethod"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
 				"bor",
 				"border-color"
 			],
@@ -96,10 +112,6 @@
 				"queryParamsHandling\tproperty"
 			],
 			[
-				"r",
-				"route\tproperty"
-			],
-			[
 				"re",
 				"relativeTo\tproperty"
 			],
@@ -182,10 +194,6 @@
 			[
 				"cons",
 				"constructor\tkeyword"
-			],
-			[
-				"c",
-				"class\tclass …"
 			],
 			[
 				"set",
@@ -368,10 +376,6 @@
 				"apartmentTypes"
 			],
 			[
-				"pa",
-				"padding-bottom"
-			],
-			[
 				"mar",
 				"margin-top"
 			],
@@ -510,10 +514,6 @@
 			[
 				"dot",
 				"dotTargets"
-			],
-			[
-				"tra",
-				"transparent"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "src/app/app.component.ts",
 			"settings":
 			{
-				"buffer_size": 436,
+				"buffer_size": 813,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -532,7 +532,7 @@
 			"file": "src/app/app.component.html",
 			"settings":
 			{
-				"buffer_size": 1513,
+				"buffer_size": 2284,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -924,7 +924,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -933,15 +933,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 436,
+						"buffer_size": 813,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								313,
-								313
+								647,
+								647
 							]
 						],
 						"settings":
@@ -957,10 +957,10 @@
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 114.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -969,15 +969,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1513,
+						"buffer_size": 2284,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1170,
-								1170
+								2266,
+								2266
 							]
 						],
 						"settings":
@@ -988,10 +988,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 171.0,
+						"translation.y": 1026.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -1028,7 +1028,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
